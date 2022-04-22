@@ -43,7 +43,7 @@ sections:
     variant: variant-a
     colors: colors-f
     title: Member
-    subtitle: Featured people section example
+    subtitle: Good team
     actions: []
     people:
       - content/data/team/desmond-eagle.json

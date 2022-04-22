@@ -41,7 +41,7 @@
             {
                 "type": "Button",
                 "label": "Sign up",
-                "url": "/",
+                "url": "/login",
                 "altText": "Sign up",
                 "style": "primary"
             }

@@ -180,7 +180,7 @@ sections:
     variant: variant-a
     actions:
       - type: Button
-        label: View All
+        label: All blog
         altText: View All Posts
         url: /blog
         style: primary

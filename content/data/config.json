@@ -10,13 +10,13 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
+                "url": "/careers",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "url": "/careers",
+                "label": "Home",
+                "url": "/",
                 "altText": ""
             },
             {

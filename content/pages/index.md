@@ -5,9 +5,8 @@ sections:
   - type: QuoteSection
     elementId: ''
     colors: colors-a
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      Attentively accumulate a bit to create the industry boutique
     backgroundImage:
       url: /images/bg.jpg
       altText: Product Marketing Manager Quote

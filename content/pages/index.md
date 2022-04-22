@@ -205,7 +205,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Recent posts
+    title: Blog
     subtitle: Recent blog posts section example
     colors: colors-a
     recentCount: 6

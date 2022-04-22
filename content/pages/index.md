@@ -8,7 +8,7 @@ sections:
     quote: |
       Attentively accumulate a bit to create the industry boutique
     backgroundImage:
-      url: /images/.jpg
+      url: /images/bg.jpg
       altText: Product Marketing Manager Quote
       styles:
         self:

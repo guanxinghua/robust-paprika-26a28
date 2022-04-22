@@ -16,6 +16,11 @@
             },
             {
                 "type": "Link",
+                "url": "/careers",
+                "altText": ""
+            },
+            {
+                "type": "Link",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
@@ -23,11 +28,6 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "label": "member"
-            },
-            {
-                "type": "Link",
-                "url": "/careers",
-                "altText": ""
             },
             {
                 "type": "Link",

@@ -207,7 +207,7 @@ sections:
         justifyContent: center
     title: Blog
     colors: colors-a
-    recentCount: 6
+    recentCount: 3
   - colors: colors-f
     elementId: ''
     title: Need Answers?

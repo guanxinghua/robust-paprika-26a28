@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: QuoteSection
     elementId: ''
-    colors: colors-c
+    colors: colors-b
     quote: |-
       “It’s great to see someone taking action while still maintaining a
       sustainable fish supply to home cooks.”

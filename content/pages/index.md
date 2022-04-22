@@ -79,7 +79,7 @@ sections:
       you’re looking for.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: react
         text: >
           Learn how top tech companies have learned working remote using our
           product.

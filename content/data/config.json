@@ -26,13 +26,13 @@
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
+                "url": "/careers",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "url": "/careers",
+                "label": "FAQ",
+                "url": "/faq",
                 "altText": ""
             },
             {

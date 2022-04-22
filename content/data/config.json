@@ -21,7 +21,6 @@
             },
             {
                 "type": "Link",
-                "label": "家\n",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,

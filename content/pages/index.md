@@ -42,7 +42,7 @@ sections:
     elementId: ''
     variant: variant-a
     colors: colors-f
-    title: About us
+    title: Member
     subtitle: Featured people section example
     actions: []
     people:

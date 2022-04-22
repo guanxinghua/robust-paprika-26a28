@@ -40,7 +40,7 @@ sections:
         textAlign: left
   - type: FeaturedPeopleSection
     elementId: ''
-    variant: variant-c
+    variant: variant-a
     colors: colors-f
     title: Member
     subtitle: Good team

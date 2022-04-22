@@ -27,7 +27,7 @@ sections:
     spacing: 1
     columns: 4
     aspectRatio: '16:9'
-    imageSizePx: 92
+    imageSizePx: 334
     showCaption: true
     enableHover: true
     styles:

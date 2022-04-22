@@ -206,7 +206,6 @@ sections:
       actions:
         justifyContent: center
     title: Blog
-    subtitle: Recent blog posts section example
     colors: colors-a
     recentCount: 6
   - colors: colors-f

@@ -44,15 +44,7 @@ sections:
     colors: colors-f
     title: Member
     subtitle: Good team
-    actions:
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/dianne-ameter.json

@@ -8,10 +8,6 @@ sections:
     title: Love your work. Work loves you.
     subtitle: 'One platform, one community.'
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
       - type: Link
         label: Learn More
         url: /

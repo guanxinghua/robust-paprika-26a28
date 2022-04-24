@@ -26,7 +26,7 @@ sections:
           - pt-0
           - pb-0
           - pl-0
-          - pr-7
+          - pr-0
         justifyContent: center
       title:
         textAlign: left

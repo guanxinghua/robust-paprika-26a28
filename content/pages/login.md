@@ -18,7 +18,7 @@ sections:
         height: auto
         width: narrow
         margin:
-          - mt-0
+          - mt-4
           - mb-12
           - ml-1
           - mr-0

@@ -26,7 +26,7 @@ sections:
           - pt-12
           - pb-36
           - pl-2
-          - pr-4
+          - pr-7
         justifyContent: center
       title:
         textAlign: left

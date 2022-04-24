@@ -65,6 +65,13 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
+        - type: TextFormControl
+          name: home-address
+          label: Home address
+          hideLabel: false
+          placeholder: Your home address
+          isRequired: false
+          width: full
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates

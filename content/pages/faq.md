@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: MEMBER
 layout: PageLayout
 sections:
   - colors: colors-a
